@@ -5,7 +5,7 @@
 If you ever visited a website with a pattern, you'll know this.
 Patterns like this-
 
-![Svg](f/s.png)
+![PHOTO](f/s.png)
 
 Now this requires nothing more than adding a class...with patches
 
