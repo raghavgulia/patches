@@ -26,6 +26,6 @@ You can make everything-
 ...and much _more_
 
 ### With nice looking animations 😃😃
-#### And also 'cause I know writing css is 😴
+#### And also 'cause I know writing CSS is 😴
 
 This is the true essence of **PATCHES**.
