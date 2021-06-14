@@ -26,6 +26,15 @@ You can make everything-
 ...and much _more_
 
 ### With nice looking animations 😃😃
+
 #### And also 'cause I know writing CSS is 😴
 
 This is the true essence of **PATCHES**.
+
+---
+
+## Docs
+
+### Create an apple pie 🥧😋
+
+(coming soon)...
