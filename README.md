@@ -5,7 +5,7 @@
 If you ever visited a website with a pattern, you'll know this.
 Patterns like this-
 
-![PHOTO](f/s.png)
+![PHOTO](image.png)
 
 Now this requires nothing more than adding a class...with patches
 
