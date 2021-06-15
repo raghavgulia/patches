@@ -35,8 +35,26 @@ This is the true essence of **PATCHES**.
 
 ## Docs
 
-### Create a *waffle* 🥪😋
+### Create a _waffle_ 🥪😋
 
-> First note it is not only to create goodies. It was created to make ***WONDERFUL*** grid designs with cool animations 
+> First note it is not only to create goodies. It was created to make **_WONDERFUL_** grid designs with cool animations
+
+#### Step 1: Create a HTML file
+
+#### Step 2: Download and link the CSS file you can find [HERE](https://github.com/raghavgulia/patches/blob/main/style.css)
+
+#### Step 3: In your HTML, type the following code(make sure you use emmet)
+
+```html
+<div class="grid"></div>
+```
+
+Inside it, write the emmet code
+
+```html
+(.squares)*64
+```
+
+Now you'll have a square grid like this
 
 (coming soon)...
