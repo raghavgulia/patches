@@ -6,6 +6,7 @@
   --height: 15rem;
   --gap: 6%;
   --color: #00ffff;
+  --gradient-color: none;
 }
 
 .grid {
@@ -20,6 +21,7 @@
 
 .squares {
   background-color: var(--color);
+  background-image: var(--gradient-color);
 }
 
 .rotating {

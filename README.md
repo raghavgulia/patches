@@ -79,7 +79,8 @@ In the CSS in `:root` change the colors like this-
   --width: 15rem;
   --height: 15rem;
   --gap: 4%;
-  --color: #975151;
+  --color: none;
+  --gradient-color: linear-gradient(to right bottom, #d2691e, #a52a2a);
 }
 ```
 
