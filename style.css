@@ -1,4 +1,5 @@
 :root {
+  --background-color: #fff
   --rows: 8;
   --columns: 8;
   --width: 15rem;
@@ -8,6 +9,7 @@
 }
 
 .grid {
+  background-color: var(--background-color);
   width: var(--width);
   height: var(--height);
   display: grid;

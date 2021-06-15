@@ -55,6 +55,31 @@ Inside it, write the emmet code
 (.squares)*64
 ```
 
-Now you'll have a square grid like this
+Now you'll have a square grid like this-
+![PHOTO](image2.png)
 
-(coming soon)...
+#### Step 4: Now let's make it like a circle
+
+In the div of class of grid, add the class `circ` to make it a circle
+
+![PHOTO](image3.png)
+
+#### Step 5: Make the waffle color delicious🤤
+
+In the CSS in `:root` change the colors like this-
+
+```css
+:root {
+  --background-color: #c9a52c;
+  --rows: 8;
+  --columns: 8;
+  --width: 15rem;
+  --height: 15rem;
+  --gap: 4%;
+  --color: #975151;
+}
+```
+
+## Think it's ready!!!
+![Image](image4.png)
+
