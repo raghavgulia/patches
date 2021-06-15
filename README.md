@@ -58,6 +58,7 @@ Inside it, write the emmet code
 ```
 
 Now you'll have a square grid like this-
+
 ![PHOTO](image2.png)
 
 #### Step 4: Now let's make it like a circle
