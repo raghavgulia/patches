@@ -35,6 +35,6 @@ This is the true essence of **PATCHES**.
 
 ## Docs
 
-### Create an apple pie 🥧😋
+### Create a *waffle* 🥪😋
 
 (coming soon)...
