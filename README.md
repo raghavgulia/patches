@@ -2,6 +2,8 @@
 
 ## A way to make styles easy
 
+### By a 12 year old student programmer👦
+
 If you ever visited a website with a pattern, you'll know this.
 Patterns like this-
 
@@ -81,5 +83,9 @@ In the CSS in `:root` change the colors like this-
 ```
 
 ## Think it's ready!!!
+
 ![Image](image4.png)
 
+_We can also make it rotate, triangle, everything you can IMAGINE._
+
+##### Just by adding classes....
