@@ -37,4 +37,6 @@ This is the true essence of **PATCHES**.
 
 ### Create a *waffle* 🥪😋
 
+> First note it is not only to create goodies. It was created to make ***WONDERFUL*** grid designs with cool animations 
+
 (coming soon)...
