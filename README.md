@@ -87,6 +87,6 @@ In the CSS in `:root` change the colors like this-
 
 ![Image](image4.png)
 
-_We can also make it rotate, triangle, everything you can IMAGINE._
+_We can also make it rotate, shape it like a triangle, everything you can IMAGINE._
 
 ##### Just by adding classes....
